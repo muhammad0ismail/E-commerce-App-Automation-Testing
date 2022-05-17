@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: items to compare list
 
   Background:
     Given user navigate to home page

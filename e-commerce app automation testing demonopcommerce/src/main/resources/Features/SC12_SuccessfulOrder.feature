@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: make successful Order
 
   Scenario: user make successful Order
     Given user navigate to home page

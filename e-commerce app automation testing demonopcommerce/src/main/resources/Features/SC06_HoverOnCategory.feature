@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: hover in categories and subcategories
 
   Background:
     Given user navigate to home page

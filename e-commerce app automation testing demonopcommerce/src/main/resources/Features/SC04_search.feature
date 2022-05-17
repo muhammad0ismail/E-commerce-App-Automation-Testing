@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: search for any item by item's name
 
   Background:
     Given user navigate to home page

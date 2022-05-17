@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: switch between currencies US-Euro
 
   Background:
     Given user navigate to home page

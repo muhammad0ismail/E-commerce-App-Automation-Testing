@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: add different products to Shopping cart
 
   Background:
     Given user navigate to home page

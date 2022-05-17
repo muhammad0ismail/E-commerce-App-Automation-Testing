@@ -1,4 +1,4 @@
-@regression
+@Testing
 Feature: user should be able to login to the system
 
   Scenario: user login with valid username and password

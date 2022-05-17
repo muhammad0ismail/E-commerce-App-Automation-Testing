@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: filter with color
 
   Background:
     Given user navigate to home page

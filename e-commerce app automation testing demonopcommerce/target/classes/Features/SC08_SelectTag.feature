@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: select different tags
 
   Background:
     Given user navigate to home page

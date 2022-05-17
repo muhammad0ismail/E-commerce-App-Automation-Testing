@@ -1,5 +1,5 @@
-@regression
-Feature:
+@Testing
+Feature: add items to wishlist
 
   Background:
     Given user navigate to home page
